@@ -1,0 +1,46 @@
+body {
+    background-color: #FFFFFF;
+    color: #36374B;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #000CF5;
+    color: #FFFFFF;
+    padding: 1rem;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  nav img {
+    height: 50px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #C2A842;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  section {
+    margin: 2rem 0;
+    padding: 1rem;
+    background-color: #F5C70F;
+    border-radius: 8px;
+  }
+  

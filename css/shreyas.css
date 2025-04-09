@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: darkcyan;
+    font-family: "Courier New", monospace;
+}
+
+h1, h2 {
+    color: lightblue;
+}
+
+section {
+    background-color: rgba(0, 255, 255, 0.1);
+    border: 2px dashed aqua;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+}
+
+img {
+    border: 3px solid #3F4880;
+    border-radius: 8px;
+    margin: 0.5rem;
+}
