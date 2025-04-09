@@ -1,5 +1,5 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #CBCBCB;
     color: #36374B;
     font-family: Arial, sans-serif;
   }
@@ -43,4 +43,13 @@ body {
     background-color: #F5C70F;
     border-radius: 8px;
   }
-  
+
+.top_text {
+  color: #C2A842;
+  font-family: 'Bungee Shade';
+  font-size: 66px;
+  text-align: center;
+  margin-top:-2px;
+
+
+}
