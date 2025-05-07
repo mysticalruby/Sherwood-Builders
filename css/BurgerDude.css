@@ -1,7 +1,7 @@
 body{
     background-color: #000000;
     color: #57A7F5;
-    font-family: monospace;
+    font-family: "Coral Pixels";
 }
 
 h1, h2{
@@ -21,3 +21,9 @@ img{
     border-radius: 8px;
     margin: 0.5rem;
 }
+.caveat {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+  }
